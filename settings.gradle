@@ -1,0 +1,2 @@
+rootProject.name='TechnoToday'
+include ':app'
